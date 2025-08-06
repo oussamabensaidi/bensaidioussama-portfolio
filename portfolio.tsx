@@ -564,7 +564,7 @@ const projects = [
     },
     { 
       icon: Globe, 
-      text: "" 
+      text: "https://bensaidioussama-portfolio.vercel.app/" 
     },
   ].map((item, index) => (
     <div
