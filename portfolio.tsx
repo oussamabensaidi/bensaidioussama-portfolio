@@ -229,7 +229,7 @@ const projects = [
                 onClick={() => {
     // Option 1: Direct download
     const link = document.createElement('a');
-    link.href = 'DOC-20250712-WA0161_250715_144155.pdf';
+    link.href = 'OussamaBensaidiCv.pdf';
     link.download = 'Oussama_Bensaidi_Resume.pdf';
     link.click();
     
